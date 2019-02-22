@@ -29,7 +29,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: CountVisual/GameObject/1
+    path: Visual(Count)/GameObject/1
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -41,7 +41,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1881850701
+      path: 1596713295
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -82,7 +82,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: CountVisual/GameObject/1
+    path: Visual(Count)/GameObject/1
     classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves: []
